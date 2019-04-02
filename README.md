@@ -1,2 +1,1 @@
-# Rakaprdn
 Universitas Darma Persada
